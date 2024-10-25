@@ -11,7 +11,7 @@ const handler = async (m, {conn, usedPrefix}) => {
   const text = `${tradutor.texto1[0]}
 
 ${tradutor.texto1[1]}
-1.- https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC`.trim();
+1.- https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT`.trim();
   const buttonMessage= {
     'document': {url: `https://www.instagram.com/ineffable.mvrco/`},
     'mimetype': `application/${document}`,
@@ -28,7 +28,7 @@ ${tradutor.texto1[1]}
         'title': `${tradutor.texto3}`,
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC'}},
+        'sourceUrl': 'https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT'}},
     'caption': text,
     'footer': wm,
     'headerType': 6};

@@ -11,50 +11,50 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', false],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true], 
-  ['56983073328', 'KILLZN', true],
-  ['56983073328', 'KILLZN', true], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', false],
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true], 
+  ['56993761200', 'Elmo', true],
+  ['56993761200', 'Elmo', true], 
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'], 
+  ['56993761200'],  
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'], 
+  ['56993761200'], 
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'], 
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200'],
+  ['56993761200']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['56993761200'];
+global.prems = ['56993761200'];
 
 global.packname = 'Sticker';
-global.author = 'KillzN';
-global.wm = 'KillzN';
-global.titulowm = 'KillzN';
-global.titulowm2 = `KillzN`
-global.igfg = 'KillzN';
+global.author = 'Elmo';
+global.wm = 'Elmo';
+global.titulowm = 'Elmo';
+global.titulowm2 = `Elmo`
+global.igfg = 'Elmo';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
@@ -79,16 +79,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nKillzN`;
-global.gt = 'KillzN';
-global.mysticbot = 'KillzN';
-global.channel = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
+global.wm2 = `${dia} ${fecha}\nElmo`;
+global.gt = 'Elmo';
+global.mysticbot = 'Elmo';
+global.channel = 'https://chat.whatsapp.com/LxUojYCbNsr51Okm42spfT';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '56993761200';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
